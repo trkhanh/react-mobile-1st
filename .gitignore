@@ -1,0 +1,12 @@
+node_modules
+
+# vim .sw files
+*.sw*
+
+dist
+
+# Parcel
+.cache
+
+# Yarn
+yarn-error.log
